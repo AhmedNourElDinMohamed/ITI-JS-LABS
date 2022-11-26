@@ -1,0 +1,52 @@
+/* Start Task 3 (Clock) */
+.container {
+    width: 50%;
+    background-color: beige;
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.container .clock {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    gap: 10px;
+    position: relative;
+}
+.container .mon {
+    position: absolute;
+    right: 20%;
+    bottom: 20px;
+    font-size: 20px;
+    display: flex;
+}
+/* End Task 3 (Clock) */
+
+/* Start Task 4 (Stop Watch) */
+/* .container {
+    width: 50%;
+    background-color: beige;
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    padding: 50px 0px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.container .clock {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    gap: 10px;
+    position: relative;
+}
+.container button {
+    width: 100px;
+    height: 50px;
+    font-size: 24px;
+    background-color: coral;
+    border-radius: 15px;
+} */
+/* End Task 4 (Stop Watch) */
